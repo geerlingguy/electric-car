@@ -19,7 +19,7 @@ Here are some of the things I've bought to make my EV experience a little better
 
 I bought a used Nissan Leaf in 2023. Since test driving a Tesla in 2012, I hoped to buy an EV for my next car, after driving only regular gas cars my whole life.
 
-I started with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a Camry that I bought before we had kids, when I had a 16 mile commute.
+I started with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a used Camry that I bought before we had kids, when I had a 16 mile commute.
 
 Fast forward about 15 years, and I found myself with a very short commute, only driving a few miles a day, and a family minivan we use for nearly all the 'driving around the kids' stuff.
 
