@@ -4,9 +4,23 @@ Information and learnings about EVs from Jeff Geerling.
 
 This README contains the 'story' of my EV experience, but I will also be posting individual issues / struggles / learnings in the [Issues](https://github.com/geerlingguy/electric-car/issues).
 
-## Equipment and Add-ons
+## 2023 Nissan Leaf SV Plus (bought used in 2025)
 
-Here are some of the things I've bought to make my EV experience a little better (some links are Amazon affiliate links. I earn for qualifying referrals):
+<p align="center"><img alt="Jeff Geerling having just purchased his 2023 Nissan Leaf" src="/resources/jeff-buys-nissan-leaf-sv-plus.jpg" height="auto" width="350"></p>
+
+I bought a used 2023 Nissan Leaf in 2025, my first 'new' car in 15 years. The above photo was taken by the dealership; apparently their social media team likes to post photos of all purchasers.
+
+I test drove a Tesla in 2012, and quickly realized my mistake. No gasoline-powered car (outside of supercars, maybe? Never drove one of those) could match the feel of pressing the throttle on an electric.
+
+I started out with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a used Camry that I bought before we had kids, when I had a 16 mile commute.
+
+Fast forward about 15 years, and I found myself with a very short commute, only driving a few miles a day, and a family minivan we use for nearly all the 'driving around the kids' stuff.
+
+So I wanted a smaller car (get back a foot or so of garage space...) that was also more efficient.
+
+### Equipment and Add-ons
+
+Before I go further, I thought I'd mention some of the things I've added to my Leaf to make the EV experience a little nicer (some links are Amazon affiliate links. I earn for qualifying referrals):
 
   - [Grizzl-E Smart L2 40A NEMA 14-50 Charger](https://amzn.to/4k0tHwX) for the garage (in case I want to charge 3x faster than my normal 12A charger)
   - [Lectron L1 J1772 EV charger](https://amzn.to/3HIt2Tx) for a more portable charger, when I just need to top off the car for a few hours
@@ -14,16 +28,7 @@ Here are some of the things I've bought to make my EV experience a little better
   - [NACS to J1772](https://amzn.to/3T1PQjw) AC L1/L2 charging adapter
   - [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) L3 DC Fast charge adapter
   - [CarlinKit 5.0 Wireless CarPlay/Android Auto adapter](https://amzn.to/3SW9AVH) because the Leaf only supports wired CarPlay by default
-
-## Nissan Leaf - bought used in 2023
-
-I bought a used Nissan Leaf in 2023. Since test driving a Tesla in 2012, I hoped to buy an EV for my next car, after driving only regular gas cars my whole life.
-
-I started with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a used Camry that I bought before we had kids, when I had a 16 mile commute.
-
-Fast forward about 15 years, and I found myself with a very short commute, only driving a few miles a day, and a family minivan we use for nearly all the 'driving around the kids' stuff.
-
-So I wanted a smaller car (get back a foot or so of garage space...) that was also more efficient.
+  - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see Issue #3)
 
 ### Why buy electric?
 
@@ -62,6 +67,14 @@ I also looked a lot at the Hyundai Ioniq and Kona; both were just a _little_ bit
 So back to the Leaf: Nissan's probably not the _best_ right now when it comes to EVs and features, but they're certainly the _cheapest_. And 'good enough' is fine by me.
 
 _She's got it where it counts, kid._
+
+### Gripes about my Leaf
+
+There are a few things that baffle me about the Leaf, some that have been frustrating from the first test drive; others that are more subtle:
+
+  - **There is no 'play/pause' button.** Anywhere. At least not on the steering wheel or the display area. You have to go into the music section on the entertainment display, _then_ press the software play/pause button. That's dumb. I've resorted to just turning Audio on/off using the volume knob, which accomplishes the same goal but is not always ideal.
+  - **Going into 'Neutral' is an exercise in frustration.** I thought you just put your foot on the brake and move the shifter knob to the left. But you have to do it with the right timing, I think.
+  - **There's no way to open the tailgate short of pressing the release button.** At least as far as I'm aware. There's no button in the cabin or key fob to unlatch it. The manual says the other way to open it is with a screwdriver, from inside the car, pushing on the latch (lol). [I'm not alone here](https://mynissanleaf.com/threads/leaf-doesnt-have-an-interior-trunk-release.5026/). At least there's a button on the remote to open the charge port.
 
 ## The joy of electric
 
