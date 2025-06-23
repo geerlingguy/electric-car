@@ -22,13 +22,13 @@ So I wanted a smaller car (get back a foot or so of garage space...) that was al
 
 Before I go further, I thought I'd mention some of the things I've added to my Leaf to make the EV experience a little nicer (some links are Amazon affiliate links. I earn for qualifying referrals):
 
-  - [Grizzl-E Smart L2 40A NEMA 14-50 Charger](https://amzn.to/4k0tHwX) for the garage (in case I want to charge 3x faster than my normal 12A charger)
+  - [Grizzl-E Level 2 Charger](https://amzn.to/4k0tHwX) for the garage (see [Issue #5](https://github.com/geerlingguy/electric-car/issues/5))
   - [Lectron L1 J1772 EV charger](https://amzn.to/3HIt2Tx) for a more portable charger, when I just need to top off the car for a few hours
   - [J1772 Wall mount for cable and plug](https://amzn.to/4l8f4ct) - I was going to 3D print one, but figured the metal product would hold up better in a garage in the midwest
   - [NACS to J1772](https://amzn.to/3T1PQjw) AC L1/L2 charging adapter
   - [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) L3 DC Fast charge adapter
   - [CarlinKit 5.0 Wireless CarPlay/Android Auto adapter](https://amzn.to/3SW9AVH) because the Leaf only supports wired CarPlay by default
-  - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see Issue #3)
+  - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see [Issue #3](https://github.com/geerlingguy/electric-car/issues/3))
 
 ### Why buy electric?
 
