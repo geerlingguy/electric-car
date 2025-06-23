@@ -102,6 +102,6 @@ All that said, I knew going into this there would be some pain. Maybe in 10 or 2
 
 ## Further Reading
 
-Be sure to check the Issues in this repository for more of my EV adventures.
+Be sure to check the [Issues](https://github.com/geerlingguy/electric-car/issues) in this repository for more of my EV adventures.
 
 I don't plan on becoming an EV advocate by any means; I don't think they're a good choice for many (if not most) people yet, especially considering the price disparity and infrastructure requirements that exclude large swaths of the population entirely!
