@@ -48,11 +48,11 @@ Hopefully this improves over time, but for now, I plan on using the electric car
 
 Price.
 
-That's mostly it. And I had driving a Nissan Altima rental car recently, and realized Nissan isn't half bad. They seem to not require an Internet connection for their cars, they offer basic lane following and adaptive cruise control, they have CarPlay/Android Auto...
+That's mostly it. And I drove a Nissan Altima rental recently, and realized Nissan isn't half bad. They seem to not require an Internet connection for their cars, they offer basic lane following and adaptive cruise control, they have CarPlay/Android Auto...
 
 The Leaf ticks all the little 'convenience' checkboxes, but is also not 'extravagant'.
 
-And the later model years also aren't "look at me I drive an EV" ugly (though they're not amazing-looking either, IMO.)
+And the later model years also aren't "look at me I drive an EV" ugly (though they're not amazing-looking, either).
 
 But I drove a minivan, an olds, and a Camry, so obviously I'm function > form when it comes to my car!
 
@@ -78,15 +78,15 @@ There are a few things that baffle me about the Leaf, some that have been frustr
 
 ## The joy of electric
 
-I don't care about engine noise. I appreciate it, though. My brother had a 1992 Forumula Firebird. And I nearly owned it after he moved away, instead of the old minivan! (But I'm a boring-car person, so I think I was happier with the minivan).
+I don't care about engine noise. I appreciate it, though. My brother had a 1992 Forumula Firebird. And I nearly owned it after he moved away, instead of my Olds! (But I'm a boring-car person, so I think I was happier with the Olds).
 
 The nice things about electric vehicles that swayed me in their favor, in descending order:
 
   - **One pedal driving** Seriously, why doesn't every EV have this mode? It makes driving one feel SO much better than any gas car, in terms of connection between driver and car movement.
   - **Sprightly torque**: Outside of exotic tiny gas cars, you're not going to get the same zip even a cheap EV like a Leaf gives you—smash the accelerator in non-Eco mode and any passenger will giggle, every time.
   - **Blissful quiet**: Though some cars have annoying noises they play at low speeds.
-  - **Lower maintenance requirements**: I hate every time I have to jack up my car and change the brakes, or take it in for oil/fluid changes. EVs require a lot less maintenance, besides maybe tires)
-  - **Conveniences**: Like running climate control to cool down/heat up the car prior to hopping in, even if it's in an enclosed space like a garage! Or plugging it in to charge at home, and not having to stop by a gas station.
+  - **Lower maintenance requirements**: I hate every time I have to jack up my car and change the brakes, or take it in for oil/fluid changes. EVs (usually) require less maintenance, besides maybe tires.
+  - **Conveniences**: Like running climate control to cool down/heat up the car prior to hopping in, even while it's in the garage! Or plugging it in to charge at home, and not having to stop by a gas station.
   - **Long-term economics**: in _general_, charging with electricity, at least here in St. Louis, is cheaper than filling up with gas, on a dollar-per-mile basis.
 
 ## The pain of electric
@@ -98,10 +98,10 @@ All that said, I knew going into this there would be some pain. Maybe in 10 or 2
   - **Lack of standards**: For 'L3' DC Fast Charging, the Leaf has a CHAdeMO port. Teslas and many newer EVs have NACS. Then there's CCS1 and CCS2. And charging stations are run by multiple vendors with multiple apps and payment methods. It's not like gas stations, like with Shell, BP, Buckee's, etc. where you just drive up, stick the gas nozzle in your tank, and squeeze. Even adapters can be complicated and annoying, and many EV charging stations only support one or two standards—and some may only have _one_ CHAdeMO plug, and that plug may have been ripped off the unit to be scrapped by a copper thief!
   - **Lack of standards, part 2**: For L1/L2 charging, some cars use J1772, some use NACS... and then wall charging units are all over the board with supporting 6, 12, or 16 Amps for L1 (they shouldn't do 16 on a 15A circuit but it seems like some do!), or various different amperages for L2. Some of these units require apps to configure them, others have dip switches, and yet others are not configurable, and don't list their exact specs in an easy-to-find location. Usually forum posts from users who _buy_ the chargers offer more information than product manufacturers' own websites!
   - **Being an EV**: For some reason, most EVs look like... EVs. I honestly was holding out hope Tesla would just make a Corolla, but an EV version. All the cheap EVs like the Bolt, i3, Leaf, etc. just look... sorta ugly. Subjective, sure, but at least my Olds looked kinda sleek. Even if it was an Olds. EVs stand out, and that I don't enjoy. I want an EV that looks like a Camry. Just blend in and don't stand out.
-  - **Cables and chargers**: The Leaf has slightly less trunk space than my slightly-larger Camry. I didn't realize how big L1/L2 charge cables are. Even L1-only cables (which charge at a very anemic pace, like 10 miles / hour of charge) are fairly thick, bulky affairs. About 1/10 of my truck is devoted to my charging cable. And on a road trip, I will likely carry my [NACS to J1772](https://amzn.to/3T1PQjw) and [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) adapters. And the latter adapter includes its _own_ battery and firmware that has to be charged and managed!
+  - **Cables and chargers**: The Leaf has slightly less trunk space than my slightly-larger Camry. I didn't realize how big L1/L2 charge cables are. Even L1-only cables (which charge at a very anemic pace, like 10 miles / hour of charge) are fairly thick, bulky affairs. About 1/10 of my trunk is devoted to my charging cable. And on a road trip, I will likely carry my [NACS to J1772](https://amzn.to/3T1PQjw) and [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) adapters. And the latter adapter includes its _own_ battery (that has to be charged) and firmware (that might need to be updated)!
 
 ## Further Reading
 
 Be sure to check the [Issues](https://github.com/geerlingguy/electric-car/issues) in this repository for more of my EV adventures.
 
-I don't plan on becoming an EV advocate by any means; I don't think they're a good choice for many (if not most) people yet, especially considering the price disparity and infrastructure requirements that exclude large swaths of the population entirely!
+I don't plan on becoming an EV advocate by any means; I don't think they're a good choice for many (if not most) people yet, especially considering the price disparity and infrastructure requirements that exclude large swaths of the population!
