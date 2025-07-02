@@ -30,6 +30,25 @@ Before I go further, I thought I'd mention some of the things I've added to my L
   - [CarlinKit 5.0 Wireless CarPlay/Android Auto adapter](https://amzn.to/3SW9AVH) because the Leaf only supports wired CarPlay by default
   - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see [Issue #3](https://github.com/geerlingguy/electric-car/issues/3))
 
+### Monitoring the Battery
+
+If you're considering a used Leaf, or if you have a Leaf already, it's a good idea to keep tabs on the battery health, especially since the meter on your dash is painfully basic in how much data it provides.
+
+Individual cell charge, 'State of Health' of the overall battery, and much more are available through the car's OBD-II port.
+
+Soon after I bought my Leaf, I ordered a [LeLink 2](https://amzn.to/45GYUls) ($35) and bought the [LeafSpy Pro](https://leafspy.com) App for my iPhone ($20).
+
+I plugged the LeLink 2 into the OBD-II diagnostics port under the steering column, and fired up LeafSpy Pro.
+
+As of June 2024, my battery metrics were:
+
+  - SOH (State of Health): 93.16%
+  - Hx (Internal resistance): 77.85%
+  - Odometer: 22,592 mi (strange, as the dash reads 36k...)
+  - Cell voltage variance: 14 mV
+
+See [Issue #8: Document battery health](https://github.com/geerlingguy/electric-car/issues/8) for all my notes monitoring my own Leaf's battery.
+
 ### Why buy electric?
 
 I overanalyze most things, so had been researching this purchase for about a decade now.
@@ -48,7 +67,7 @@ Hopefully this improves over time, but for now, I plan on using the electric car
 
 Price.
 
-That's mostly it. And I drove a Nissan Altima rental recently, and realized Nissan isn't half bad. They seem to not require an Internet connection for their cars, they offer basic lane following and adaptive cruise control, they have CarPlay/Android Auto...
+That's mostly it. And I drove a Nissan Sentra rental on a recent trip, and realized Nissan isn't half bad. They seem to not require an Internet connection for their cars, they offer basic lane following and adaptive cruise control, they have CarPlay/Android Auto...
 
 The Leaf ticks all the little 'convenience' checkboxes, but is also not 'extravagant'.
 
@@ -84,7 +103,7 @@ The nice things about electric vehicles that swayed me in their favor, in descen
 
   - **One pedal driving** Seriously, why doesn't every EV have this mode? It makes driving one feel SO much better than any gas car, in terms of connection between driver and car movement.
   - **Sprightly torque**: Outside of exotic tiny gas cars, you're not going to get the same zip even a cheap EV like a Leaf gives you—smash the accelerator in non-Eco mode and any passenger will giggle, every time.
-  - **Blissful quiet**: Though some cars have annoying noises they play at low speeds.
+  - **Blissful quiet**: Though some cars have annoying noises (Nissan calls this VSP, or "Vehicle Sound for Pedestirians") they play at low speeds.
   - **Lower maintenance requirements**: I hate every time I have to jack up my car and change the brakes, or take it in for oil/fluid changes. EVs (usually) require less maintenance, besides maybe tires.
   - **Conveniences**: Like running climate control to cool down/heat up the car prior to hopping in, even while it's in the garage! Or plugging it in to charge at home, and not having to stop by a gas station.
   - **Long-term economics**: in _general_, charging with electricity, at least here in St. Louis, is cheaper than filling up with gas, on a dollar-per-mile basis.
