@@ -40,12 +40,15 @@ Soon after I bought my Leaf, I ordered a [LeLink 2](https://amzn.to/45GYUls) ($3
 
 I plugged the LeLink 2 into the OBD-II diagnostics port under the steering column, and fired up LeafSpy Pro.
 
-As of June 2024, my battery metrics were:
+Battery metrics over time, as reported by LeafSpy:
 
-  - SOH (State of Health): 93.16%
-  - Hx (Internal resistance): 77.85%
-  - Odometer: 22,592 mi (strange, as the dash reads 36k...)
-  - Cell voltage variance: 14 mV
+| Date | SOH | Hx | Cell voltage variance | Odometer |
+| :-- | :-- | :-- | :-- | :-- |
+| 2025-06-25 | 93.16% | 77.85% | 14 mV | 22,592 mi |
+
+> - SOH: State of Health
+> - Hx: Conductance
+> - Odometer: as reported by LeafSpy. There's about a 10k mi discrepancy between that and what I see on my dashboard...
 
 See [Issue #8: Document battery health](https://github.com/geerlingguy/electric-car/issues/8) for all my notes monitoring my own Leaf's battery.
 
