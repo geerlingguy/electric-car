@@ -26,7 +26,7 @@ Before I go further, I thought I'd mention some of the things I've added to my L
   - [Lectron L1 J1772 EV charger](https://amzn.to/3HIt2Tx) for a more portable charger, when I just need to top off the car for a few hours
   - [J1772 Wall mount for cable and plug](https://amzn.to/4l8f4ct) - I was going to 3D print one, but figured the metal product would hold up better in a garage in the midwest
   - [NACS to J1772](https://amzn.to/3T1PQjw) AC L1/L2 charging adapter
-  - [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) L3 DC Fast charge adapter
+  - [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) L3 DC Fast charge adapter (see [Issue #9](https://github.com/geerlingguy/electric-car/issues/9))
   - [CarlinKit 5.0 Wireless CarPlay/Android Auto adapter](https://amzn.to/3SW9AVH) because the Leaf only supports wired CarPlay by default
   - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see [Issue #3](https://github.com/geerlingguy/electric-car/issues/3))
 
