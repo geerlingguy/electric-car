@@ -28,7 +28,7 @@ Before I go further, I thought I'd mention some of the things I've added to my L
   - [NACS to J1772](https://amzn.to/3T1PQjw) AC L1/L2 charging adapter
   - [CCS1 to CHAdeMO](https://a2zevshop.com/products/ccs1-to-chademo) L3 DC Fast charge adapter (see [Issue #9](https://github.com/geerlingguy/electric-car/issues/9))
   - [CarlinKit 5.0 Wireless CarPlay/Android Auto adapter](https://amzn.to/3SW9AVH) because the Leaf only supports wired CarPlay by default
-  - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with a [Dongar wiring harness adapter](https://amzn.to/44hbi9f) (see [Issue #3](https://github.com/geerlingguy/electric-car/issues/3))
+  - [VIOFO A119 Mini Dashcam](https://amzn.to/4n8HqEB) with the [VIOFO HK4 Hardwire Kit](https://amzn.to/4mip1DX) (see [Issue #3](https://github.com/geerlingguy/electric-car/issues/3))
 
 ### Monitoring the Battery
 
