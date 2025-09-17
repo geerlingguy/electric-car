@@ -44,7 +44,8 @@ Battery metrics over time, as reported by LeafSpy:
 
 | Date | SOH | Hx | Cell voltage variance | Odometer |
 | :-- | :-- | :-- | :-- | :-- |
-| 2025-06-25 | 93.16% | 77.85% | 14 mV | 22,592 mi |
+| 2025-06-25 | 93.16% | 77.85% | 14 mV | 36,358 mi |
+| 2025-09-15 | 93.29% | 74.70% | 17 mV | 37,802 mi |
 
 > - SOH: State of Health
 > - Hx: Conductance
