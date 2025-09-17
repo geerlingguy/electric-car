@@ -95,8 +95,8 @@ _She's got it where it counts, kid._
 
 There are a few things that baffle me about the Leaf, some that have been frustrating from the first test drive; others that are more subtle:
 
-  - **There is no 'play/pause' button.** Anywhere. At least not on the steering wheel or the display area. You have to go into the music section on the entertainment display, _then_ press the software play/pause button. That's dumb. I've resorted to just turning Audio on/off using the volume knob, which accomplishes the same goal but is not always ideal.
-  - **Going into 'Neutral' is an exercise in frustration.** I thought you just put your foot on the brake and move the shifter knob to the left. But you have to do it with the right timing, I think.
+  - **There is no 'play/pause' button.** At least not on the steering wheel or the display area. You have to go into the music section on the entertainment display, _then_ press the software play/pause button. Otherwise you can press the 'Power' button on the audio volume knob, which doesn't make sense to me, but works the same as a play/pause button.
+  - **Going into 'Neutral' is an exercise in frustration.** I thought you just put your foot on the brake and move the shifter knob to the left. But you have to _hold it in Neutral_ for up to 3 seconds before it actually shifts to Neutral. Otherwise you can turn off the car, turn it on, then immediately shift to Neutral, if your foot is on the brake.
   - **There's no way to open the tailgate short of pressing the release button.** At least as far as I'm aware. There's no button in the cabin or key fob to unlatch it. The manual says the other way to open it is with a screwdriver, from inside the car, pushing on the latch (lol). [I'm not alone here](https://mynissanleaf.com/threads/leaf-doesnt-have-an-interior-trunk-release.5026/). At least there's a button on the remote to open the charge port.
 
 ## The joy of electric
